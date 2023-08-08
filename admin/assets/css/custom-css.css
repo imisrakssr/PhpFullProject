@@ -1,0 +1,28 @@
+/*Edit Icons*/
+.action-bar ul{
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+.action-bar ul li{
+	list-style: none;
+	display: inline;
+}
+.action-bar ul li a .bx-pencil{
+	color: #2dce89;
+	
+}
+.action-bar ul li a .bx-trash{
+	color: red;
+	margin-left: 15px;
+}
+/*Modal*/
+.modal-action ul{
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+.modal-action ul li{
+	list-style: none;
+	display: inline;
+}
